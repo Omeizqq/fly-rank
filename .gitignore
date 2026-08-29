@@ -18,7 +18,6 @@ build/
 Thumbs.db
 
 # IDEs
-.vscode/
 .idea/
 
 # Docker
